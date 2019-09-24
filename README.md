@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-SUBMITTABLE-green.svg)](https://github.com/raysaavedra-work/bakery_scaffold_qA1f2mKCL2TBJ8uq)
+[![Status](https://img.shields.io/badge/status-PROCESSING%20COMMIT:%20437a0f9d80c9ba259154d2e90459cf60c8ce60ea-yellow.svg)](https://github.com/raysaavedra-work/bakery_scaffold_qA1f2mKCL2TBJ8uq/commit/437a0f9d80c9ba259154d2e90459cf60c8ce60ea)
+
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
